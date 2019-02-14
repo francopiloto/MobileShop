@@ -13,5 +13,5 @@ Connected to the Shopify JSON API to retrieve and display products.
 
 ## Screenshots
 
-<img src="screenshots/homing02.gif">
+<img src="screenshots/physics.gif">
 
