@@ -1,6 +1,6 @@
 # Mobile Shop
 
-Connected to the Shopify JSON API to retrieve and display products.
+An IOS app that connects to the Shopify API and aggregates all products into a single view.
 
 ## Technologies
 
